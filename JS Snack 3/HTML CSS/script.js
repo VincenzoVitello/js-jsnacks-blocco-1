@@ -20,7 +20,4 @@ document.getElementById("green").innerHTML = "Numeri pari: " + evenNumbers;
 document.getElementById("red").innerHTML = "Numeri dispari: " + oddNumbers;
 
 
-// document.getElementById(verde).innerHTML(evenNumbers);
-// document.getElementById(rosso).innerHTML(oddNumbers);
-
 
